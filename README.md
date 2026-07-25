@@ -7,6 +7,7 @@
 | [0037-sudoku-solver](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0136-single-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0136-single-number) |
 ## String
 |  |
 | ------- |
@@ -39,5 +40,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
