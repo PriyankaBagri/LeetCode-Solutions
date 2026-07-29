@@ -6,6 +6,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0073-set-matrix-zeroes](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -33,12 +34,14 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
