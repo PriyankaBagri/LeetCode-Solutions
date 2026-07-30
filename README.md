@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0435-non-overlapping-intervals](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1004-max-consecutive-ones-iii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -86,4 +88,12 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0031-next-permutation) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
