@@ -9,6 +9,7 @@
 | [0051-n-queens](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0260-single-number-iii) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
