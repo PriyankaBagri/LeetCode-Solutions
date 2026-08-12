@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0044-wildcard-matching](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
@@ -67,6 +68,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 ## Stack
@@ -115,6 +117,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0435-non-overlapping-intervals](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -136,4 +139,8 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0068-text-justification) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
