@@ -36,6 +36,7 @@
 | [0126-word-ladder-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0126-word-ladder-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [0101-symmetric-tree](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0126-word-ladder-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
