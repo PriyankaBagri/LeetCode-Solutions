@@ -8,6 +8,7 @@
 | [0037-sudoku-solver](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0068-text-justification) |
@@ -38,6 +39,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
@@ -147,6 +149,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
