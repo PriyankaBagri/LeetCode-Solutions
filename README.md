@@ -79,6 +79,7 @@
 | [0073-set-matrix-zeroes](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
@@ -208,4 +209,16 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0140-word-break-ii) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
