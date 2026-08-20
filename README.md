@@ -52,6 +52,7 @@
 | [0282-expression-add-operators](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0473-matchsticks-to-square](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
+| [0797-all-paths-from-source-to-target](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0110-balanced-binary-tree](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
@@ -175,6 +177,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0126-word-ladder-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0797-all-paths-from-source-to-target](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
@@ -229,4 +232,12 @@
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
