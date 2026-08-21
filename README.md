@@ -26,6 +26,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0978-longest-turbulent-subarray](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -90,11 +91,13 @@
 | [0146-lru-cache](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0282-expression-add-operators](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -154,6 +157,7 @@
 | [0978-longest-turbulent-subarray](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,6 +166,7 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
