@@ -27,6 +27,7 @@
 | [0978-longest-turbulent-subarray](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0062-unique-paths](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0282-expression-add-operators](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | [0260-single-number-iii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0473-matchsticks-to-square](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -162,6 +165,7 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -217,6 +221,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -270,4 +275,8 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
