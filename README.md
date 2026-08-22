@@ -24,6 +24,7 @@
 | [0260-single-number-iii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0435-non-overlapping-intervals](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0978-longest-turbulent-subarray](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -44,6 +45,7 @@
 | [0140-word-break-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
 ## Backtracking
 |  |
@@ -92,6 +94,7 @@
 | [0126-word-ladder-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
