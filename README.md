@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -82,6 +83,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
