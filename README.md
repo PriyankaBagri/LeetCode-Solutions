@@ -47,6 +47,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [1927-sum-game](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1927-sum-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [0062-unique-paths](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0282-expression-add-operators](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1927-sum-game](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
@@ -189,6 +191,7 @@
 | [0044-wildcard-matching](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0435-non-overlapping-intervals](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1927-sum-game](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1927-sum-game) |
 ## Sorting
 |  |
 | ------- |
@@ -285,4 +288,8 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
