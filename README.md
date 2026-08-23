@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -182,6 +183,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
