@@ -38,6 +38,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
@@ -135,6 +136,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -229,6 +231,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 ## Combinatorics
 |  |
