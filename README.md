@@ -145,6 +145,7 @@
 | [0085-maximal-rectangle](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0155-min-stack) |
 ## Tree
 |  |
 | ------- |
@@ -267,6 +268,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
