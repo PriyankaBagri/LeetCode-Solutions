@@ -54,6 +54,7 @@
 | [0125-valid-palindrome](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0140-word-break-ii) |
+| [0171-excel-sheet-column-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0282-expression-add-operators](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0171-excel-sheet-column-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0282-expression-add-operators](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1872-stone-game-viii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
