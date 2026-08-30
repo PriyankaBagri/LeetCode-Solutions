@@ -1,32 +1,26 @@
 class Solution {
 public:
     int minimumDeletions(vector<int>& nums) {
-      int n = nums.size();
-        if (n == 1) return 1;
-
+     int n = nums.size();
+        
         int min_idx = 0;
         int max_idx = 0;
 
-        // Step 1: Find indices of min and max elements
+        // Find indices of minimum and maximum elements
         for (int k = 0; k < n; ++k) {
             if (nums[k] < nums[min_idx]) min_idx = k;
             if (nums[k] > nums[max_idx]) max_idx = k;
         }
 
-        // i is closer to the front, j is further from the front
+        // i is the smaller index (closer to start), j is the larger index (closer to end)
         int i = min(min_idx, max_idx);
         int j = max(min_idx, max_idx);
 
-        // Option 1: Both from front
-        int both_front = j + 1;
-        
-        // Option 2: Both from back
-        int both_back = n - i;
-        
-        // Option 3: One from front, one from back
-        int front_and_back = (i + 1) + (n - j);
+        // 3 Possible Choices:
+        int option1 = j + 1;             // Both deleted from front
+        int option2 = n - i;             // Both deleted from back
+        int option3 = (i + 1) + (n - j); // One from front, one from back
 
-        // Return minimum of all 3 strategies
-        return min({both_front, both_back, front_and_back});
+        return min({option1, option2, option3});
     }
 };
