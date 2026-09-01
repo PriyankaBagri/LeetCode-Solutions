@@ -38,6 +38,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -98,6 +99,7 @@
 | [0073-set-matrix-zeroes](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
@@ -136,6 +139,7 @@
 | [0473-matchsticks-to-square](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -246,6 +250,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## DP on Trees
 |  |
 | ------- |
