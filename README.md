@@ -25,6 +25,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0220-contains-duplicate-iii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0260-single-number-iii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0435-non-overlapping-intervals](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -115,6 +116,7 @@
 | [0126-word-ladder-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0149-max-points-on-a-line](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0282-expression-add-operators](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -385,4 +388,16 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
