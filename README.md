@@ -145,6 +145,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0282-expression-add-operators](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
@@ -175,6 +176,7 @@
 | [0044-wildcard-matching](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -331,6 +333,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 ## Linked List
 |  |
