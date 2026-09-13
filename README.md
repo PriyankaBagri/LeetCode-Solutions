@@ -36,6 +36,7 @@
 | [0473-matchsticks-to-square](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0835-image-overlap](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0978-longest-turbulent-subarray](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -116,6 +117,7 @@
 | [0073-set-matrix-zeroes](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
