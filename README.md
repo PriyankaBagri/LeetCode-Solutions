@@ -37,6 +37,7 @@
 | [0347-top-k-frequent-elements](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
+| [0546-remove-boxes](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0546-remove-boxes) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0835-image-overlap](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0835-image-overlap) |
@@ -203,6 +204,7 @@
 | [0435-non-overlapping-intervals](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0509-fibonacci-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0546-remove-boxes](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0546-remove-boxes) |
 | [0940-distinct-subsequences-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0978-longest-turbulent-subarray](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -371,6 +373,7 @@
 | [0070-climbing-stairs](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0546-remove-boxes](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0546-remove-boxes) |
 ## Linked List
 |  |
 | ------- |
