@@ -167,6 +167,7 @@
 | [0509-fibonacci-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1927-sum-game) |
@@ -477,6 +478,7 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Euclidean Algorithm
 |  |
 | ------- |
