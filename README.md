@@ -44,6 +44,7 @@
 | [0978-longest-turbulent-subarray](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -138,6 +139,7 @@
 | [0079-word-search](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0835-image-overlap) |
+| [1260-shift-2d-grid](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
@@ -367,6 +369,7 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0068-text-justification) |
+| [1260-shift-2d-grid](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3498-reverse-degree-of-a-string](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
