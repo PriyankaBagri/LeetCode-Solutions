@@ -175,6 +175,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
