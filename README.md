@@ -21,6 +21,7 @@
 | [0063-unique-paths-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -326,6 +327,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -347,6 +349,7 @@
 | [0015-3sum](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
@@ -561,4 +564,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
