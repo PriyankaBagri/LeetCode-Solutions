@@ -1,54 +1,18 @@
 class Solution {
 public:
-    vector<string> removeInvalidParentheses(string s) {
-        vector<string> result;
-        unordered_set<string> visited;
-        queue<string> q;
-
-        q.push(s);
-        visited.insert(s);
-
-        bool found = false;
-
-        while (!q.empty()) {
-            string current = q.front();
-            q.pop();
-
-            if (isValid(current)) {
-                result.push_back(current);
-                found = true; // Minimum removals reached for this level
-            }
-
-            // Once valid string(s) are found at this level, stop exploring deeper levels
-            if (found) continue;
-
-            for (int i = 0; i < current.length(); ++i) {
-                // Only remove parenthesis characters
-                if (current[i] != '(' && current[i] != ')') continue;
-
-                // Create substring by removing character at index i
-                string nextStr = current.substr(0, i) + current.substr(i + 1);
-
-                if (!visited.count(nextStr)) {
-                    visited.insert(nextStr);
-                    q.push(nextStr);
-                }
-            }
-        }
-
-        return result;
-    }
-
-private:
-    bool isValid(const string& str) {
-        int count = 0;
-        for (char c : str) {
-            if (c == '(') count++;
-            else if (c == ')') {
-                count--;
-                if (count < 0) return false; // More closing than opening
-            }
-        }
-        return count == 0;
-    }
-};
+   set<string> ans; 
+   void solve(string &s, int i, string cur, int bal, int lr, int rr)
+    { if(bal < 0 || lr < 0 || rr < 0) return; if(i == s.size()) { if(bal == 0 && lr == 0 && rr == 0) ans.insert(cur); return; } if(s[i] != '(' && s[i] != ')')
+     { solve(s, i + 1, cur + s[i], bal, lr, rr); return; }
+      if(s[i] == '(') { 
+        solve(s, i + 1, cur + s[i], bal + 1, lr, rr);
+       if(lr > 0)
+        solve(s, i + 1, cur, bal, lr - 1, rr); } else { if(bal > 0) solve(s, i + 1, cur + s[i], bal - 1, lr, rr); if(rr > 0) solve(s, i + 1, cur, bal, lr, rr - 1); } } 
+        
+        
+        
+        vector<string> removeInvalidParentheses(string s) { 
+            int lr = 0, rr = 0;
+             for(char c : s)
+              { if(c == '(')
+               lr++; else if(c == ')') { if(lr > 0) lr--; else rr++; } } solve(s, 0, "", 0, lr, rr); return vector<string>(ans.begin(), ans.end()); } };
