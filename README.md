@@ -171,6 +171,7 @@
 | [0140-word-break-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -196,6 +197,7 @@
 | [0070-climbing-stairs](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -350,6 +352,7 @@
 | [0075-sort-colors](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
@@ -608,4 +611,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
