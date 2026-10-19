@@ -56,6 +56,7 @@
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -119,6 +120,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -375,6 +377,7 @@
 | [0202-happy-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [1768-merge-strings-alternately](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
