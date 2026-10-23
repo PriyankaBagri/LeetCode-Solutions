@@ -211,6 +211,7 @@
 | [0002-add-two-numbers](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -342,6 +343,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [1004-max-consecutive-ones-iii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -659,4 +661,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
