@@ -34,6 +34,7 @@
 | [0136-single-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -344,6 +345,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -379,6 +381,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [1768-merge-strings-alternately](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/PriyankaBagri/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
